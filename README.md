@@ -1,1 +1,1 @@
-## Sample Code for Different Generative AI work I have done 
+## Sample Code for some Generative AI work I have done
