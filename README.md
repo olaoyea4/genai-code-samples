@@ -1,0 +1,1 @@
+## Sample Code for Different Generative AI work I have done 
